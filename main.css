@@ -1,5 +1,5 @@
 body {
-    background-color: cornflowerblue;
+    background-color: #f6b93b;
 }
 h1 {
     position: absolute;
@@ -8,5 +8,4 @@ h1 {
     transform: translate(-50%, -50%);
     color: #ffffff;
     font-family: sans-serif;
-    font-style: italic;
 }
